@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+
+# virtual env
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# system
+.DS_Store
+Thumbs.db
+
+# streamlit
+.streamlit/secrets.toml
+
+# logs
+*.log
+
+# dataset ignore (optional)
+loan_approval_data.csv
